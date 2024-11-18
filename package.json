@@ -4,7 +4,7 @@
   "description": "Backgorund Generator",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify script.js > bundle.js && live-server"
   },
   "author": "Othman Smaili",
   "license": "ISC",
