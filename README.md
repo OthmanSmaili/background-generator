@@ -1,1 +1,1 @@
-Backgorund Generator README.md
+Background Generator README
